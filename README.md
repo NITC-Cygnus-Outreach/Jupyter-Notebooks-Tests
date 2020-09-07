@@ -5,5 +5,5 @@
 
 ## To Try it Live Online:
 - Binder: https://mybinder.org/v2/gh/NITC-Cygnus-Outreach/Jupyter-Notebooks-Tests.git/master
-- Kaggle Kernel:
+- Kaggle Kernel: (Public only if you have a Kaggle Account)
   + Field Visualization 2D: https://www.kaggle.comfield-visualization-2d
